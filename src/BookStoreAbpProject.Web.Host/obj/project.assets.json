@@ -11957,11 +11957,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\BookStoreAbpProject.Web.Host.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\BookStoreAbpProject.Web.Host.csproj",
       "projectName": "BookStoreAbpProject.Web.Host",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\BookStoreAbpProject.Web.Host.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\BookStoreAbpProject.Web.Host.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11978,8 +11978,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Core\\BookStoreAbpProject.Web.Core.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Core\\BookStoreAbpProject.Web.Core.csproj"
+            "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Core\\BookStoreAbpProject.Web.Core.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Core\\BookStoreAbpProject.Web.Core.csproj"
             }
           }
         }

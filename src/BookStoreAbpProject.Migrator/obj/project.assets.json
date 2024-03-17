@@ -9245,11 +9245,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Migrator\\BookStoreAbpProject.Migrator.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Migrator\\BookStoreAbpProject.Migrator.csproj",
       "projectName": "BookStoreAbpProject.Migrator",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Migrator\\BookStoreAbpProject.Migrator.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Migrator\\BookStoreAbpProject.Migrator.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Migrator\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Migrator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9266,11 +9266,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Core\\BookStoreAbpProject.Core.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Core\\BookStoreAbpProject.Core.csproj"
+            "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Core\\BookStoreAbpProject.Core.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Core\\BookStoreAbpProject.Core.csproj"
             },
-            "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.EntityFrameworkCore\\BookStoreAbpProject.EntityFrameworkCore.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.EntityFrameworkCore\\BookStoreAbpProject.EntityFrameworkCore.csproj"
+            "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.EntityFrameworkCore\\BookStoreAbpProject.EntityFrameworkCore.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.EntityFrameworkCore\\BookStoreAbpProject.EntityFrameworkCore.csproj"
             }
           }
         }

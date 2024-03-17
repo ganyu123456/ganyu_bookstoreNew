@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U8Xbn83YWhFDf3ksRl+2A1oi/spkmSKrkDIUOjWI7gDPk0hkEIzjCAbBZkuoQYPlEYnVNW9ep2iNErEZ8Slmmw==",
+  "dgSpecHash": "v/Q/eZ+V2gAYwmh7xMSYElEZU9d9VgcSMyeYP6BKXODGAFAbqJ0S9Bd4Zw3ji4qWNlAR2n9vkD0sv3sgm/1RXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.EntityFrameworkCore\\BookStoreAbpProject.EntityFrameworkCore.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.EntityFrameworkCore\\BookStoreAbpProject.EntityFrameworkCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\abp\\7.3.0\\abp.7.3.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\abp.automapper\\7.3.0\\abp.automapper.7.3.0.nupkg.sha512",

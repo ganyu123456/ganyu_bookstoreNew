@@ -19695,3 +19695,32 @@
 2024-03-17 12:55:18.864 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0058299s
 2024-03-17 12:55:21.866 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0198155s
 2024-03-17 12:55:21.870 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0091545s
+2024-03-17 14:30:41.394 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.InstrumentStartup : Initializing ...
+2024-03-17 14:30:41.524 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2024-03-17 14:30:41.525 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.LogReportService : Loaded instrument service [SkyApm.Service.LogReportService].
+2024-03-17 14:30:41.525 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2024-03-17 14:30:41.525 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2024-03-17 14:30:41.526 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Loaded instrument service [SkyApm.Service.CLRStatsService].
+2024-03-17 14:30:41.526 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2024-03-17 14:30:41.526 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.ConnectService].
+2024-03-17 14:30:41.724 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2024-03-17 14:30:41.725 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2024-03-17 14:30:41.815 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[192.168.64.128:11800].
+2024-03-17 14:30:42.459 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Grpc.Net.Client].
+2024-03-17 14:30:44.420 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.EntityFrameworkCore].
+2024-03-17 14:30:52.606 +08:00 [BookStoreAbpProject.Web.Host] [Error] SkyApm.Transport.Grpc.V8.ServiceRegister : Report service instance properties fail.
+Grpc.Core.RpcException: Status(StatusCode="DeadlineExceeded", Detail="")
+   at SkyApm.Transport.Grpc.V8.ServiceRegister.<>c__DisplayClass9_0.<<ReportInstancePropertiesAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at SkyApm.Transport.Grpc.Common.Call.Execute[T](Func`1 task, Func`1 errCallback, Func`1 errMessage)
+2024-03-17 14:30:52.607 +08:00 [BookStoreAbpProject.Web.Host] [Warning] SkyApm.Transport.Grpc.ConnectionManager : Connection state changed. Status(StatusCode="DeadlineExceeded", Detail="")
+2024-03-17 14:30:56.543 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.ConnectionManager : Shutdown connection[192.168.64.128:11800].
+2024-03-17 14:30:56.543 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[192.168.64.128:11800].
+2024-03-17 14:31:21.539 +08:00 [BookStoreAbpProject.Web.Host] [Error] SkyApm.Transport.Grpc.V8.ServiceRegister : Report service instance properties fail.
+Grpc.Core.RpcException: Status(StatusCode="DeadlineExceeded", Detail="")
+   at SkyApm.Transport.Grpc.V8.ServiceRegister.<>c__DisplayClass9_0.<<ReportInstancePropertiesAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at SkyApm.Transport.Grpc.Common.Call.Execute[T](Func`1 task, Func`1 errCallback, Func`1 errMessage)
+2024-03-17 14:31:21.539 +08:00 [BookStoreAbpProject.Web.Host] [Warning] SkyApm.Transport.Grpc.ConnectionManager : Connection state changed. Status(StatusCode="DeadlineExceeded", Detail="")
+2024-03-17 14:31:26.531 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.ConnectionManager : Shutdown connection[192.168.64.128:11800].
+2024-03-17 14:31:26.531 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[192.168.64.128:11800].

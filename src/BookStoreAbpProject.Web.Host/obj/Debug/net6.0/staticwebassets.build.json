@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sFcpLHxASkUNimjsbxJcEjqCKHGsFPIAow0YZfdhwJc=",
+  "Hash": "l8dFWtOxwMN+tHUJA06qhXKTYMm3/d2ebzzYcDQJWYs=",
   "Source": "BookStoreAbpProject.Web.Host",
   "BasePath": "_content/BookStoreAbpProject.Web.Host",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BookStoreAbpProject.Web.Host\\wwwroot",
       "Source": "BookStoreAbpProject.Web.Host",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\AboutView-f5aa2423.js",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\AboutView-f5aa2423.js",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/AboutView-f5aa2423.js",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\AboutView-f5aa2423.js"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\bg-fff12969.jpg",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\bg-fff12969.jpg",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/bg-fff12969.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\bg-fff12969.jpg"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\BookAddView-1785ff75.js",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\BookAddView-1785ff75.js",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/BookAddView-1785ff75.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\BookAddView-1785ff75.js"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\BookAddView-ac4eff8d.css",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\BookAddView-ac4eff8d.css",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/BookAddView-ac4eff8d.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\BookAddView-ac4eff8d.css"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\BookEditView-82869653.css",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\BookEditView-82869653.css",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/BookEditView-82869653.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\BookEditView-82869653.css"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\BookEditView-d65b88f3.js",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\BookEditView-d65b88f3.js",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/BookEditView-d65b88f3.js",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\BookEditView-d65b88f3.js"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\favicon-db74ab0b.ico",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\favicon-db74ab0b.ico",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/favicon-db74ab0b.ico",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\favicon-db74ab0b.ico"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\HomeView-36d63819.js",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\HomeView-36d63819.js",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/HomeView-36d63819.js",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\HomeView-36d63819.js"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\index-bfafebc5.js",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\index-bfafebc5.js",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/index-bfafebc5.js",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-bfafebc5.js"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\index-bff39ac1.css",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\index-bff39ac1.css",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/index-bff39ac1.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-bff39ac1.css"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\LoginView-059e7b5f.js",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\LoginView-059e7b5f.js",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/LoginView-059e7b5f.js",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\LoginView-059e7b5f.js"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\LoginView-4081d832.css",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\LoginView-4081d832.css",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/LoginView-4081d832.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\LoginView-4081d832.css"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\RegisterView-84f417d2.js",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\RegisterView-84f417d2.js",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/RegisterView-84f417d2.js",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\RegisterView-84f417d2.js"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\RegisterView-eef0a3e7.css",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\RegisterView-eef0a3e7.css",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "assets/RegisterView-eef0a3e7.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\RegisterView-eef0a3e7.css"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\index.html",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\jquery.min.js",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\jquery.min.js",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "layer/jquery.min.js",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\layer\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\layer.js",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\layer.js",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "layer/layer.js",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\layer\\layer.js"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\mobile\\layer.js",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\mobile\\layer.js",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "layer/mobile/layer.js",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\layer\\mobile\\layer.js"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\mobile\\need\\layer.css",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\mobile\\need\\layer.css",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "layer/mobile/need/layer.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\layer\\mobile\\need\\layer.css"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\icon.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\icon.png",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "layer/theme/default/icon.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\layer\\theme\\default\\icon.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\icon-ext.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\icon-ext.png",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "layer/theme/default/icon-ext.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\layer\\theme\\default\\icon-ext.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\layer.css",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\layer.css",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "layer/theme/default/layer.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\layer\\theme\\default\\layer.css"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\loading-0.gif",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\loading-0.gif",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "layer/theme/default/loading-0.gif",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\layer\\theme\\default\\loading-0.gif"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\loading-1.gif",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\loading-1.gif",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "layer/theme/default/loading-1.gif",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\layer\\theme\\default\\loading-1.gif"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\loading-2.gif",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\loading-2.gif",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "layer/theme/default/loading-2.gif",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\layer\\theme\\default\\loading-2.gif"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\swagger\\ui\\abp.js",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\swagger\\ui\\abp.js",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "swagger/ui/abp.js",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\swagger\\ui\\abp.js"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\swagger\\ui\\abp.swagger.js",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\swagger\\ui\\abp.swagger.js",
       "SourceId": "BookStoreAbpProject.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\ganyu_bookstore\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\",
       "BasePath": "_content/BookStoreAbpProject.Web.Host",
       "RelativePath": "swagger/ui/abp.swagger.js",
       "AssetKind": "All",
