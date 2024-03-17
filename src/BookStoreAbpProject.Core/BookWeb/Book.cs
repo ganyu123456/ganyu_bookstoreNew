@@ -15,7 +15,7 @@ namespace BookStoreAbpProject.BookWeb
     public class Book:Entity
     {
         /// <summary>
-        /// 书名
+        /// 书名1
         /// </summary>
         [Required]
         [StringLength(255)]
