@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\AboutView-f5aa2423.js",
+      "PackagePath": "staticwebassets\\assets\\AboutView-f5aa2423.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\BookAddView-1785ff75.js",
+      "PackagePath": "staticwebassets\\assets\\BookAddView-1785ff75.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\BookAddView-ac4eff8d.css",
+      "PackagePath": "staticwebassets\\assets\\BookAddView-ac4eff8d.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\BookEditView-82869653.css",
+      "PackagePath": "staticwebassets\\assets\\BookEditView-82869653.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\BookEditView-d65b88f3.js",
+      "PackagePath": "staticwebassets\\assets\\BookEditView-d65b88f3.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\HomeView-36d63819.js",
+      "PackagePath": "staticwebassets\\assets\\HomeView-36d63819.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\LoginView-059e7b5f.js",
+      "PackagePath": "staticwebassets\\assets\\LoginView-059e7b5f.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\LoginView-4081d832.css",
+      "PackagePath": "staticwebassets\\assets\\LoginView-4081d832.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\RegisterView-84f417d2.js",
+      "PackagePath": "staticwebassets\\assets\\RegisterView-84f417d2.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\RegisterView-eef0a3e7.css",
+      "PackagePath": "staticwebassets\\assets\\RegisterView-eef0a3e7.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\bg-fff12969.jpg",
+      "PackagePath": "staticwebassets\\assets\\bg-fff12969.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\favicon-db74ab0b.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon-db74ab0b.ico"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\index-bfafebc5.js",
+      "PackagePath": "staticwebassets\\assets\\index-bfafebc5.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\assets\\index-bff39ac1.css",
+      "PackagePath": "staticwebassets\\assets\\index-bff39ac1.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\jquery.min.js",
+      "PackagePath": "staticwebassets\\layer\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\layer.js",
+      "PackagePath": "staticwebassets\\layer\\layer.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\mobile\\layer.js",
+      "PackagePath": "staticwebassets\\layer\\mobile\\layer.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\mobile\\need\\layer.css",
+      "PackagePath": "staticwebassets\\layer\\mobile\\need\\layer.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\icon-ext.png",
+      "PackagePath": "staticwebassets\\layer\\theme\\default\\icon-ext.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\icon.png",
+      "PackagePath": "staticwebassets\\layer\\theme\\default\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\layer.css",
+      "PackagePath": "staticwebassets\\layer\\theme\\default\\layer.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\loading-0.gif",
+      "PackagePath": "staticwebassets\\layer\\theme\\default\\loading-0.gif"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\loading-1.gif",
+      "PackagePath": "staticwebassets\\layer\\theme\\default\\loading-1.gif"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\layer\\theme\\default\\loading-2.gif",
+      "PackagePath": "staticwebassets\\layer\\theme\\default\\loading-2.gif"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\swagger\\ui\\abp.js",
+      "PackagePath": "staticwebassets\\swagger\\ui\\abp.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\BookStoreAbpProject-master\\BookStoreAbpProject-master\\src\\BookStoreAbpProject.Web.Host\\wwwroot\\swagger\\ui\\abp.swagger.js",
+      "PackagePath": "staticwebassets\\swagger\\ui\\abp.swagger.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BookStoreAbpProject.Web.Host.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BookStoreAbpProject.Web.Host.props",
+      "PackagePath": "build\\BookStoreAbpProject.Web.Host.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStoreAbpProject.Web.Host.props",
+      "PackagePath": "buildMultiTargeting\\BookStoreAbpProject.Web.Host.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BookStoreAbpProject.Web.Host.props",
+      "PackagePath": "buildTransitive\\BookStoreAbpProject.Web.Host.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

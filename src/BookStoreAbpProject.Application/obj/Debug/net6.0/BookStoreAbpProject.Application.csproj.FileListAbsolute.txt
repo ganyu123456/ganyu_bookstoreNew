@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\bin\Debug\net6.0\BookStoreAbpProject.Application.deps.json
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\bin\Debug\net6.0\BookStoreAbpProject.Application.dll
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\bin\Debug\net6.0\BookStoreAbpProject.Application.pdb
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\bin\Debug\net6.0\BookStoreAbpProject.Application.xml
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\bin\Debug\net6.0\BookStoreAbpProject.Core.dll
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\bin\Debug\net6.0\BookStoreAbpProject.Core.pdb
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\obj\Debug\net6.0\BookStoreAbpProject.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\obj\Debug\net6.0\BookStoreAbpProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\obj\Debug\net6.0\BookStoreAbpProject.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\obj\Debug\net6.0\BookStoreAbpProject.Application.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\obj\Debug\net6.0\BookStoreAbpProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\obj\Debug\net6.0\BookStoreAbpProject.Application.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\obj\Debug\net6.0\BookStoreAbpProject.Application.dll
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\obj\Debug\net6.0\refint\BookStoreAbpProject.Application.dll
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\obj\Debug\net6.0\BookStoreAbpProject.Application.xml
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\obj\Debug\net6.0\BookStoreAbpProject.Application.pdb
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Application\obj\Debug\net6.0\ref\BookStoreAbpProject.Application.dll

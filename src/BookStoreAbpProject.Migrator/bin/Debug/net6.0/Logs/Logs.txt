@@ -1,0 +1,23 @@
+﻿DEBUG 2023-10-19 22:03:26,693 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2023-10-19 22:03:27,600 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2023-10-19 22:03:28,287 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: BookStoreAbpProject.Migrator.BookStoreAbpProjectMigratorModule, BookStoreAbpProject.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-10-19 22:03:28,291 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: BookStoreAbpProject.EntityFrameworkCore.BookStoreAbpProjectEntityFrameworkModule, BookStoreAbpProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-10-19 22:03:28,292 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: BookStoreAbpProject.BookStoreAbpProjectCoreModule, BookStoreAbpProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-10-19 22:03:28,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-10-19 22:03:28,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-10-19 22:03:28,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-10-19 22:03:28,295 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-10-19 22:03:28,296 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-10-19 22:03:28,297 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-10-19 22:03:28,303 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2023-10-19 22:03:31,307 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: BookStoreAbpProject.EntityFrameworkCore.BookStoreAbpProjectDbContext, BookStoreAbpProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-10-19 22:03:34,675 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2023-10-19 22:03:34,765 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2023-10-19 22:03:34,789 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2023-10-19 22:03:34,811 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: BookStoreAbpProject
+INFO  2023-10-19 22:03:35,330 [1    ] BookStoreAbpProject.Migrator.Log         - Host database: server=localhost;port=3306;database=bookstore;uid=*****;pwd=*****
+INFO  2023-10-19 22:03:35,331 [1    ] BookStoreAbpProject.Migrator.Log         - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2023-10-19 22:03:37,265 [1    ] BookStoreAbpProject.Migrator.Log         - HOST database migration started...
+INFO  2023-10-19 22:04:06,695 [1    ] BookStoreAbpProject.Migrator.Log         - HOST database migration completed.
+INFO  2023-10-19 22:04:06,697 [1    ] BookStoreAbpProject.Migrator.Log         - --------------------------------------------------------
+INFO  2023-10-19 22:04:07,215 [1    ] BookStoreAbpProject.Migrator.Log         - All databases have been migrated.

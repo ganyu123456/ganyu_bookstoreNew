@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\src\BookStoreAbpProject.Web.Host\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-03-16T13:21:42.1355443Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
